@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bsideproject/11_9_TIMELETTER_BE_2/issues"
   },
-  "homepage": "https://github.com/bsideproject/11_9_TIMELETTER_BE_2#readme"
+  "homepage": "https://github.com/bsideproject/11_9_TIMELETTER_BE_2#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
 }
